@@ -1,0 +1,5 @@
+this file will have faculty class
+
+//code to save faculties to database.
+
+//edited code 
